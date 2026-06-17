@@ -1,0 +1,22 @@
+body { 
+font-family: Arial, sans-serif; 
+} 
+.container { 
+text-align: center; 
+} 
+.student-box { 
+border: 1px solid black; 
+padding: 10px; 
+margin: 10px auto; 
+width: 300px; 
+background-color: #f9f9f9; 
+} 
+h1 { 
+color: black; 
+} 
+h2 { 
+margin-bottom: 5px; 
+} 
+p { 
+margin: 3px 0; 
+}
